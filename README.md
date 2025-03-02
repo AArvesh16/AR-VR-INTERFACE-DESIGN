@@ -73,4 +73,6 @@ This project showcases my UI/UX expertise, problem-solving skills, and ability t
 
 # OUTPUT
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/7fbe36df-8af0-4010-9c02-3574aa2ff281" />
+
 
