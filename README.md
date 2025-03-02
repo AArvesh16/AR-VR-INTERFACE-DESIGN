@@ -1,5 +1,17 @@
 # AR-VR-INTERFACE-DESIGN
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : AARVESH UMAKANT GAONKAR
+
+INTERN ID : CT08SDD
+
+DOMAIN : UI/UX Design
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 **Introduction**
 
 ROOM360XR is an immersive AR-VR mobile application designed to revolutionize the way users visualize and interact with interior spaces. The app enables users to experience real-time 3D room customization, furniture placement, and virtual walkthroughs before making any purchase or renovation decisions.
